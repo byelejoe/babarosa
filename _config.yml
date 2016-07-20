@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Babarosa
+tagline:          'A Jekyll theme'
+description:      '悲观者是那些等待下雨的人，我早已浑身湿透。'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+gems: [jekyll-paginate]
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/byelejoe
